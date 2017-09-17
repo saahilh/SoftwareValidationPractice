@@ -5,7 +5,7 @@ import org.junit.Test;
 
 public class TestFlatRateDiscountStrategy {
   @Test
-  public void test() {
+  public void myTest() {
     assertTrue("test ran", true);
   }
 }
