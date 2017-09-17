@@ -8,4 +8,9 @@ public class TestFlatRateDiscountStrategy {
   public void myTest() {
     assertTrue("test ran", true);
   }
+  
+  @Test
+  public void myTestTwo() {
+    System.out.println("test2");
+  }
 }
